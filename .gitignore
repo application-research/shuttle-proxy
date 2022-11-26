@@ -4,3 +4,4 @@ barge
 .barge
 upload
 tests/config/config.env
+extern
