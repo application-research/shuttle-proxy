@@ -1,5 +1,3 @@
 # shuttle-proxy
 
-This is the shuttle redirection proxy server. It uses the previous shuttle proxy logic.
-
-This is currently deployed and can be accessed at https://upload.estuary.tech
+## This has now been replaced by shuttle-proxy-v2. For more information about v2, go to it repository [here](https://github.com/application-research/shuttle-proxy-v2)
